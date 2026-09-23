@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Welcome to **Snag's** GitHub space.
+## Welcome to **Snag's** GitHub space 👋
 
 ### What is GitHub?
 
